@@ -1,4 +1,4 @@
-# Install Mac OS X 10.11 El Capitan Development Tools
+# Install Mac OS X 10.11 El Capitan Dev Tools
 
 0. First invocation of git invokes this dialog:
 
